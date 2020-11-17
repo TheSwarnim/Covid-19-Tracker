@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-This COVID-19 Tracking project uses disease.sh API to display information of Covid19 related details worldwide as well as country wise. Here, you can easily visualize information of total cases, recovered cases and death cases as well as daily cases, daily recovered cases and daily deaths happens due to corona virus.
+This COVID-19 Tracking project uses [disease.sh](http://disease.sh/) API to display information of Covid19 related details worldwide as well as country wise. Here, you can easily visualize information of total cases, recovered cases and death cases as well as daily cases, daily recovered cases and daily deaths happens due to corona virus.
 
 This repository is for the project's **website** : https://covid-19-tracker-1ea81.web.app/
 
