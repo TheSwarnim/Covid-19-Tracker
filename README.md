@@ -14,7 +14,7 @@ This repository is for the project's **website** : https://covid-19-tracker-1ea8
 
 ## Development
 
-This project is a react web app, you can find more on documentation of reactjs on [react]js(reactjs.org) official website
+This project is a react web app, you can find more on documentation of [reactjs](reactjs.org) official website
 
 ### Install
 
